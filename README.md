@@ -27,7 +27,11 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishabh6&show_icons=true&theme=dark&locale=en" alt="Hrishabh" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh6&theme=dark" alt="Hrishabh" /></p>
+<tr>
+    <td>You're visit </td>
+    <td><img src="https://profile-counter.glitch.me/hrishabh6/count.svg" alt="visitor count" height="30" width="224" /></td>
+  </tr>
+
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
